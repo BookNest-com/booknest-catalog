@@ -1,2 +1,0 @@
-# booknest-catalog
-books list
